@@ -1,4 +1,3 @@
-# docker
 mkdir website-profil
 
 cd website-profil
